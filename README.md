@@ -15,7 +15,7 @@ I'm an industrial engineer graduate who is passionate about writing code, solvin
 📫 If you have any suggestions don't hesitate to contact me through <a href="https://www.linkedin.com/in/martabuaf" target = "_blank"> LinkedIn </a> or <a href="mailto:martafb8888@gmail.com"> Gmail </a>
 
 ### Thank you for visiting! 
-### Hope to see you soon 🙂
+### Hope to see you again soon 🙂
 
 <!--
 **martabuaf/martabuaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
